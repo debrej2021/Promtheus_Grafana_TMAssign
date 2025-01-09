@@ -45,7 +45,7 @@ I then was able to configure Promethus with the help of docker for both frontend
 Challenges Faced - 
 I was also able to get the metrices but with localhost:9000/metrics but when I checked on the targets the backend server always seemed down because IP was not hard coded 
 Each time I shut down my machine after working , to begin working I had to restart all and sometimes used to take some time for application restart it self , consumed a considerable amount of time 
-I had to use IP of the machine for the backend "- targets: ['172.16.1.18:5000']" as it was otherwise not getting configured , perhaps some dynamic variable may work but I didnt find at this point . Pronthus ran on port 9000( screen shots included )
+I had to use IP of the machine for the backend "- targets: ['172.16...:5000']" as it was otherwise not getting configured , perhaps some dynamic variable may work but I didnt find at this point . Pronthus ran on port 9000( screen shots included )
 ---------------------------------------------------------------------------------------------
 Loki - 
 I also then Grafana to run on port 3001 ( screen shots included )
