@@ -55,3 +55,5 @@ I added promthus IP of machine :9000 as datasource ( screen shots added )
 Challenges faced - 
 When it was trying to connect prometheus with a variable and port it was again not working i.e Grafana was not able to connect to promtheus .  
 I have created the loki folder and the config file but some reason I am not able to mount the loki aggregator and since I AM ON A TRAVEL DUE TO JOB CHANGE , UNABLE TO COMPLETE END TO END 
+
+I have also added screen shots of the errors and successes to convey the challenges . 
