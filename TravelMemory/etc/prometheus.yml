@@ -10,4 +10,4 @@ scrape_configs:
   # Scrape Node.js backend
   - job_name: 'nodejs-backend'
     static_configs:
-      - targets: ['172.16....:5000'] # Replace with your bac172.16.1.18kend's host:port
+      - targets: ['172.16....:5000'] # Replace with your backend's IP host:port
