@@ -29,9 +29,7 @@ Setup Details :-
 
 Promtheus & application deploment - 
 
-I used my office Ubuntu (OS) laptop to download Prashant's Travel Memory application , deployed both frontend and backend , luckily the new company I have 
-joined have given me an Ubuntu laptop 
-
+I used my Ubuntu (OS) laptop to download Travel Memory application , deployed both frontend and backend , 
 challenges faced -
 CORS issue faced and wasnt connecting unless I made few changes to the conn.js files 
 MongoDb installation and running of mongo server . I had to repari and reinstall mongo multiple times as connection was failing . 
